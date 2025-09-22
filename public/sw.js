@@ -1,0 +1,1 @@
+full contents of public/sw.js
